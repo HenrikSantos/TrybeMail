@@ -1,4 +1,4 @@
-import { Provider } from "./context/Provider";
+import Provider from "./context/Provider";
 import { createRoot } from "react-dom/client";
 
 import App from "./App";
